@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/avenger.png</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/closeAndLock.wav</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/ghost_lvl01.png</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/ghost_lvl02.png</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/ghost_lvl03.png</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/ghost_lvl04.png</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/groundinfo.png</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/healthbar.png</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/PickItem.wav</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/player_damage.wav</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/player_lvl1.png</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/statusBar.png</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/Steps_Grass.wav</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/Steps_Sand.wav</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/Steps_ShallowWater.wav</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/Steps_Stone.wav</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/Steps_Wood.wav</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/TextFont.spritefont</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/tileMap32.png</File>
+    <File>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/UnlockAndOpen.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/closeAndLock.wav</SourceFile>
+  <SourceTime>2023-05-26T22:37:53.1198672+02:00</SourceTime>
+  <DestFile>C:/Users/sadek.alashkar.stude/source/repos/AdventureGame/Content/bin/DesktopGL/closeAndLock.xnb</DestFile>
+  <DestTime>2023-05-27T18:09:34.4719055+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
