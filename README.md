@@ -99,4 +99,4 @@ The game is developed using the MonoGame framework, leveraging its powerful tool
 ## About
 This game was developed as my first major programming project in high school. It utilizes `C#` as the main programming language and the MonoGame framework for game development. It represents my initial foray into game design and programming, combining creativity and technical skills to create an engaging gameplay experience.
 
-Enjoy the adventure and good luck!
+Enjoy the adventure and good luck! 
