@@ -17,7 +17,7 @@ namespace AdventureGame
         static SoundEffect sfx_Item;  // Sound effect for picking up an item
         public static bool doorIsLocked = false;  // Flag indicating if the door is locked
 
-        private static List<string> happenings = new List<string>();  // List to store game events (not currently used)
+        // private static List<string> happenings = new List<string>();  // List to store game events (not currently used)
 
         // Method to load sounds from content manager
         public static void LoadSounds(ContentManager content)
