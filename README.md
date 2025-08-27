@@ -1,4 +1,4 @@
-# Adventure Game
+themefeatefeat Adventure Game
 
 ## Overview
 Adventure Game is a thrilling exploration and action game developed using the MonoGame framework. In this game, players embark on a quest to find a lost key while capturing escaped ghosts. Navigate through the map, confront various enemies, and use strategic skills to complete your mission.
@@ -46,7 +46,7 @@ To install and run the game, follow these steps:
 - Find the lost key and capture all the escaped ghosts.
 
 ### Enemies
-- Different types of enemies will try to stop you. Use your skills to avoid or defeat them.
+- Different types of enemies will try to stop you. Use your skills to avoid and defeat them.
 
 ### Exploration
 - Navigate through the map to locate the key and ghosts.
